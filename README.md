@@ -5,4 +5,4 @@ You can crawl KRX stock data executing python codes in following order:
 3. crawl-stock-daily.py: crawl stock-daily
 
 # Other codes
-1. get-stock-by-code
+1. find-name-by-code.py [code]: find stock name by code
